@@ -136,3 +136,17 @@ ul.link-list a {
   color: var(--text);
   font-weight: 600;
 }
+
+.btn {
+  display: inline-block;
+  background: var(--primary);
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 12px 20px;
+  border-radius: 12px;
+  margin-top: 8px;
+}
+
+.btn:hover { opacity: 0.9; }
